@@ -2,7 +2,7 @@
     "name": "hello-world-php-nix",
     "description": "Testing PHP versions.",
     "require": {
-        "php": ">= 8.0",
+        "php": "8.0",
         "bramus/router": "~1.6"
     }
 }
