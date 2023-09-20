@@ -1,0 +1,8 @@
+{
+    "name": "hello-world-php-nix",
+    "description": "Testing PHP versions.",
+    "require": {
+        "php": ">= 7.4",
+        "bramus/router": "~1.6"
+    }
+}
