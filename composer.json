@@ -1,5 +1,5 @@
 {
-    "name": "hello-world-php-nix",
+    "name": "kinsta/hello-world-php-nix",
     "description": "Testing PHP versions.",
     "require": {
         "php": "8.0",
